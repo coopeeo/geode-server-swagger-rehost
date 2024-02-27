@@ -1,0 +1,1 @@
+# geode-server-swagger-rehost
